@@ -4,6 +4,7 @@
 package businessLogic;
 
 
+import java.io.IOException;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
@@ -22,7 +23,7 @@ public class MiVacunaTest {
 
 	/**
 	 * @param args
-	 * @throws IOException 
+	 * @throws IOException
 	 */
 	public static void main(String[] args) {
 		ArrayList<Patient> list = new ArrayList<Patient>();
@@ -33,6 +34,7 @@ public class MiVacunaTest {
 		AdministratorPatientUsers admin = new AdministratorPatientUsers();
 		HistogramCreator hc = new HistogramCreator();
 		//admin.showUsers(list);
+		System.out.println("Bienvenido, estás ahora en Github");
 		int option = 0;
 		while(option != 8) {
 			ui.showMenuPrincipal();
