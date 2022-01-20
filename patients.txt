@@ -1,0 +1,200 @@
+Amin, Alayón Castellanos, 1974-08-02, C.C., 681026867, Astrazeneca, 2020-09-11, 2
+Brais, Carvajal Cabrera, 1985-03-05, C.C., 667835361, Jahnnsen, 2020-07-11, DOSIS ÚNICA
+Adolfo, Cuesta Cuevas, 1973-07-02, C.C., 443828422, Sputnik, 2021-10-22, 1
+Arturo, Cevedo Caldera, 2007-03-30, C.C., 486785546, Astrazeneca, 2021-02-13, 2
+Cayetano, Alzate Cevedo, 1998-05-04, PASAPORTE, 018438765, Jahnnsen, 2020-02-22, DOSIS ÚNICA
+Ana, Calleja Caldera, 2003-09-28, PASAPORTE, 831495439, Pfizer, 2020-06-20, 1
+Adolfo, Carranza Arjona, 1997-04-04, C.C., 545083547, Jahnnsen, 2020-01-19, DOSIS ÚNICA
+Brahim, Cordero Alzate, 1977-09-06, PASAPORTE, 965226490, Jahnnsen, 2021-03-22, DOSIS ÚNICA
+Adam, Alanis Cuesta, 2006-12-07, PASAPORTE, 805729627, Moderna, 2021-01-01, 2
+Nicolas, Cuervo Cornejo, 2007-07-20, PASAPORTE, 900488139, Sputnik, 2021-11-11, 2
+Camilo, Alcocer Agustín, 1973-12-01, C.C., 524405796, Pfizer, 2021-09-30, 2
+Julio, Ahumada Camacho, 1979-06-08, C.C., 428969812, Moderna, 2021-12-14, 2
+Luciana, Acuña Chavira, 1999-08-01, C.C., 342977969, Astrazeneca, 2020-05-26, 2
+Alejo, Carvajal Cárdenas, 1989-10-26, PASAPORTE, 743687881, Jahnnsen, 2020-04-06, DOSIS ÚNICA
+Juanita, Cervantes Calleja, 1998-08-21, PASAPORTE, 725448469, Jahnnsen, 2021-03-17, DOSIS ÚNICA
+Brais, Aguirre Castellanos, 2005-12-29, PASAPORTE, 827202377, Jahnnsen, 2021-07-22, DOSIS ÚNICA
+Bruno, Cabrera Alanis, 1989-06-23, C.C., 725060291, Jahnnsen, 2020-07-04, DOSIS ÚNICA
+Adiran, Corro Camareno, 2009-04-12, PASAPORTE, 149020264, Pfizer, 2020-12-12, 1
+Alejo, Almendárez Castañeda, 1970-09-04, PASAPORTE, 970021189, Moderna, 2020-10-15, 1
+Jose Manuel, Alayón Cabeza, 2001-11-03, PASAPORTE, 935787658, Astrazeneca, 2020-11-30, 2
+Isabella, Campos Campos, 1988-03-09, PASAPORTE, 661296364, Jahnnsen, 2021-05-08, DOSIS ÚNICA
+José, Carranza Acuña, 1995-11-07, PASAPORTE, 445469885, Astrazeneca, 2021-02-27, 2
+Arnau, Casas Cisneros, 1985-10-28, PASAPORTE, 294110773, Astrazeneca, 2021-04-20, 1
+Adán, Carvallo Cervantes, 2007-05-09, C.C., 733004467, Astrazeneca, 2020-09-15, 1
+Jose Luis, Campos Cuervo, 1981-12-12, PASAPORTE, 097214168, Jahnnsen, 2021-09-10, DOSIS ÚNICA
+Alejandro, Carvajal Agustín, 1973-05-12, PASAPORTE, 212960132, Sputnik, 2021-06-05, 2
+Aldo, Aguirre Caballero, 2000-12-30, PASAPORTE, 512309182, Jahnnsen, 2021-09-27, DOSIS ÚNICA
+Boris, Camarillo Aguilar, 1975-02-10, PASAPORTE, 284873688, Moderna, 2021-07-14, 2
+Camilo, Corro Chávez, 1982-01-01, C.C., 060649654, Sputnik, 2020-08-09, 1
+Benito, Cadenas Alayón, 1983-02-21, C.C., 592344586, Sputnik, 2021-03-28, 1
+Luciana, Camacho Acosta, 2007-06-30, PASAPORTE, 583970505, Astrazeneca, 2021-10-21, 1
+Adrián, Carranza Calles, 1970-09-18, C.C., 652711405, Jahnnsen, 2021-04-12, DOSIS ÚNICA
+Augusto, Cervantes Calleja, 2006-01-25, C.C., 418885045, Jahnnsen, 2020-02-21, DOSIS ÚNICA
+Bruno, Cisneros Carrillo, 2001-11-13, PASAPORTE, 304682262, Pfizer, 2020-09-30, 1
+Jordi, Arjona Camarillo, 1974-09-22, C.C., 088336802, Jahnnsen, 2021-02-26, DOSIS ÚNICA
+Camilo, Caballero Camarillo, 1991-09-13, PASAPORTE, 167980576, Sputnik, 2021-07-12, 1
+Amin, Cabrera Arrollo, 1988-09-03, C.C., 937105252, Jahnnsen, 2021-10-29, DOSIS ÚNICA
+Natalia, Cornejo Anaya, 1982-05-09, PASAPORTE, 669519507, Moderna, 2021-09-12, 1
+Jose Manuel, Agustín Carvallo, 1984-08-11, PASAPORTE, 618184917, Moderna, 2020-07-28, 2
+Amado, Camacho Casas, 1993-02-01, PASAPORTE, 819146984, Astrazeneca, 2021-02-28, 2
+Juan Manuel, Alcocer Cuesta, 2005-03-29, C.C., 634864199, Jahnnsen, 2020-05-29, DOSIS ÚNICA
+Bernardo, Correa Cuervo, 1970-03-22, PASAPORTE, 131365709, Astrazeneca, 2021-05-23, 1
+Amin, Alarcón Cornejo, 1993-01-28, C.C., 591444085, Pfizer, 2020-06-27, 1
+Brahim, Alarcón Acuña, 1975-05-20, PASAPORTE, 792149024, Jahnnsen, 2021-08-04, DOSIS ÚNICA
+Adán, Caballero Arriaga, 2006-04-20, PASAPORTE, 969747544, Pfizer, 2020-11-26, 2
+Arnau, Cárdenas Cerda, 1974-06-03, C.C., 494780119, Moderna, 2020-03-05, 2
+Ana, Cadenas Álvarez, 1986-10-11, PASAPORTE, 594066268, Jahnnsen, 2021-01-28, DOSIS ÚNICA
+Amadeo, Aguilar Ayala, 1979-01-04, PASAPORTE, 450755872, Moderna, 2020-06-16, 1
+Sofia, Ahumada Cabrera, 1977-11-26, PASAPORTE, 713405809, Pfizer, 2021-02-09, 1
+Bruno, Carranza Cardoso, 1971-09-21, C.C., 338836211, Astrazeneca, 2020-03-07, 2
+Bruno, Acuña Alarcón, 2003-03-28, PASAPORTE, 670363780, Astrazeneca, 2021-01-31, 2
+Alejo, Anaya Camacho, 2008-03-30, PASAPORTE, 733552000, Moderna, 2021-04-01, 2
+Borja, Cabeza Cabeza, 1993-03-25, PASAPORTE, 762104183, Jahnnsen, 2020-09-21, DOSIS ÚNICA
+Claudio, Alarcón Alfaro, 1983-06-13, PASAPORTE, 586511715, Pfizer, 2021-05-07, 2
+Conrado, Arrollo Caballero, 2008-08-11, C.C., 809270600, Astrazeneca, 2021-11-29, 1
+Arnau, Alayón Ahumada, 2002-01-20, C.C., 771416040, Astrazeneca, 2021-07-04, 2
+Adrià, Agustín Correa, 2001-08-05, C.C., 841087294, Jahnnsen, 2020-03-08, DOSIS ÚNICA
+Alonso, Arriaga Castañeda, 1999-01-14, PASAPORTE, 044179118, Jahnnsen, 2020-12-18, DOSIS ÚNICA
+Juan, Camareno Castellanos, 2000-05-03, C.C., 606041702, Astrazeneca, 2020-07-05, 1
+Gabriela, Carranza Alfaro, 2006-04-24, PASAPORTE, 953440905, Moderna, 2021-02-12, 2
+Juan José, Arjona Alcázar, 1990-08-22, PASAPORTE, 602058626, Moderna, 2020-09-23, 1
+Asier, Cepeda Calles, 1982-11-04, PASAPORTE, 149498298, Astrazeneca, 2020-01-23, 1
+Calisto, Cervantes Cisneros, 1976-09-06, C.C., 637755597, Pfizer, 2020-03-18, 2
+Juan Manuel, Correa Altamirano, 1988-04-13, C.C., 127693849, Jahnnsen, 2020-04-05, DOSIS ÚNICA
+Benito, Cárdenas Cabeza, 1982-05-30, PASAPORTE, 689348037, Jahnnsen, 2021-02-13, DOSIS ÚNICA
+Adán, Castellanos Alarcón, 2010-12-04, PASAPORTE, 339946980, Moderna, 2021-06-05, 1
+Clemente, Collado Alfaro, 1989-02-03, C.C., 151970271, Astrazeneca, 2020-03-30, 2
+Anastasio, Anaya Cervantes, 1985-10-28, PASAPORTE, 624288687, Jahnnsen, 2020-04-25, DOSIS ÚNICA
+Camilo, Cisneros Collado, 2009-07-17, C.C., 600499999, Jahnnsen, 2020-02-18, DOSIS ÚNICA
+Alano, Corro Alzate, 2004-10-24, PASAPORTE, 320620630, Moderna, 2020-10-25, 1
+Benjamín, Cuesta Álvarez, 1996-04-26, C.C., 576332386, Jahnnsen, 2021-04-21, DOSIS ÚNICA
+Alberto, Cevallos Caldera, 1987-06-06, PASAPORTE, 744104091, Jahnnsen, 2021-06-06, DOSIS ÚNICA
+Abraham, Chavira Ahumada, 1998-04-02, PASAPORTE, 704545061, Jahnnsen, 2021-10-21, DOSIS ÚNICA
+Jorge, Alcázar Castellanos, 1981-02-12, PASAPORTE, 616954433, Sputnik, 2020-01-24, 2
+Juliana, Cuesta Almendárez, 2004-04-29, C.C., 678943772, Astrazeneca, 2020-06-13, 2
+Luciana, Cabeza Correa, 1999-11-16, PASAPORTE, 829082235, Jahnnsen, 2021-08-09, DOSIS ÚNICA
+Brais, Chávez Argüelles, 1983-05-08, PASAPORTE, 850042442, Jahnnsen, 2021-05-01, DOSIS ÚNICA
+Amadeo, Cardoso Aguirre, 2008-12-23, C.C., 261337351, Sputnik, 2021-06-11, 1
+Alano, Correa Cadenas, 1986-11-20, C.C., 186537744, Pfizer, 2020-10-15, 1
+Ana, Cevedo Calleja, 1971-02-18, C.C., 507136487, Astrazeneca, 2021-09-14, 1
+Alex, Carrillo Altamirano, 2000-11-24, PASAPORTE, 341643674, Sputnik, 2020-09-21, 1
+Brais, Almendárez Arjona, 1994-08-31, PASAPORTE, 328932446, Jahnnsen, 2021-11-30, DOSIS ÚNICA
+Anastasio, Cerda Cárdenas, 1980-11-21, PASAPORTE, 842262418, Sputnik, 2021-03-14, 2
+Alfredo, Céspedes Cerda, 1991-12-28, C.C., 828490682, Astrazeneca, 2021-01-23, 1
+Aura, Cisneros Anaya, 2007-08-29, C.C., 555108459, Astrazeneca, 2021-03-28, 1
+Borja, Cabeza Camarillo, 1989-11-05, C.C., 599186484, Jahnnsen, 2020-06-12, DOSIS ÚNICA
+Jon, Casas Carvajal, 1986-11-21, PASAPORTE, 647049094, Jahnnsen, 2021-10-11, DOSIS ÚNICA
+Basilio, Arjona Caballero, 1974-10-07, PASAPORTE, 443294424, Astrazeneca, 2020-02-24, 1
+Juan, Chavira Camareno, 1997-02-23, C.C., 681548433, Jahnnsen, 2020-01-22, DOSIS ÚNICA
+Anastasio, Alayón Céspedes, 1976-02-07, C.C., 967781414, Astrazeneca, 2021-09-02, 2
+Agustín, Agustín Alfaro, 2009-02-27, C.C., 172078028, Astrazeneca, 2020-09-01, 1
+Alano, Cabeza Cuevas, 1992-04-07, C.C., 748670694, Jahnnsen, 2021-03-26, DOSIS ÚNICA
+Alex, Anaya Agustín, 1993-04-27, C.C., 275885210, Jahnnsen, 2021-06-27, DOSIS ÚNICA
+Brahim, Carvajal Calleja, 1971-07-11, C.C., 817918187, Pfizer, 2020-08-28, 1
+Bruno, Alanis Céspedes, 1983-05-31, PASAPORTE, 902426631, Moderna, 2021-11-03, 1
+Baltasar, Casas Carrillo, 1993-02-28, PASAPORTE, 190315279, Pfizer, 2020-11-01, 2
+Alejo, Castañeda Camarillo, 1971-12-30, PASAPORTE, 920408854, Pfizer, 2020-10-31, 1
+Amadeo, Alayón Calleja, 2002-03-24, C.C., 399014701, Pfizer, 2020-08-16, 1
+Calisto, Correa Cervantes, 1972-09-20, C.C., 496621191, Astrazeneca, 2020-05-25, 1
+Alfredo, Calleja Arriaga, 2007-09-01, C.C., 229149973, Jahnnsen, 2020-05-25, DOSIS ÚNICA
+César, Alanis Altamirano, 1978-12-15, C.C., 965434541, Jahnnsen, 2021-08-11, DOSIS ÚNICA
+Blas, Arriaga Amador, 1970-12-19, PASAPORTE, 938154539, Jahnnsen, 2021-08-06, DOSIS ÚNICA
+Brahim, Alzate Alcocer, 1989-05-07, C.C., 734518623, Jahnnsen, 2021-08-11, DOSIS ÚNICA
+Ander, Cuesta Casas, 2008-04-21, PASAPORTE, 159361858, Moderna, 2021-04-19, 2
+Álvaro, Cuervo Caballero, 1981-04-26, C.C., 613431102, Jahnnsen, 2021-04-25, DOSIS ÚNICA
+Aarón, Cervantes Corro, 1981-10-27, PASAPORTE, 985250921, Jahnnsen, 2020-07-19, DOSIS ÚNICA
+Augusto, Cadenas Ayala, 1978-02-22, C.C., 943207901, Astrazeneca, 2020-05-28, 1
+Augusto, Cabrera Cadenas, 2004-12-05, PASAPORTE, 610226159, Moderna, 2020-01-05, 1
+Amado, Álvarez Cuesta, 1996-03-28, PASAPORTE, 723400840, Astrazeneca, 2021-12-02, 2
+Gabriela, Cadenas Almendárez, 2005-07-05, PASAPORTE, 560046301, Pfizer, 2021-03-18, 2
+Blas, Amador Cadenas, 1997-04-03, PASAPORTE, 071307390, Jahnnsen, 2020-09-02, DOSIS ÚNICA
+Brahim, Alzate Cárdenas, 1987-07-29, PASAPORTE, 281925825, Astrazeneca, 2020-10-12, 2
+Aarón, Caldera Chávez, 1995-12-10, C.C., 942672812, Pfizer, 2020-03-11, 1
+Adalberto, Camareno Cisneros, 1998-06-16, C.C., 879634444, Astrazeneca, 2021-04-05, 1
+Alex, Corro Carvajal, 2000-02-12, PASAPORTE, 147337007, Astrazeneca, 2021-02-12, 2
+Alonso, Almendárez Cabrera, 1992-08-19, PASAPORTE, 479408140, Moderna, 2021-09-02, 1
+Calisto, Ahumada Caballero, 1977-03-07, C.C., 723124523, Jahnnsen, 2021-07-12, DOSIS ÚNICA
+Constantino, Cadenas Cabeza, 2008-06-02, C.C., 766767326, Moderna, 2021-06-17, 2
+Juan Carlos, Argüelles Cevedo, 1974-08-14, PASAPORTE, 082876766, Jahnnsen, 2021-01-10, DOSIS ÚNICA
+Ángel, Aguilar Castellanos, 1984-04-13, PASAPORTE, 055663307, Sputnik, 2021-10-17, 2
+Baltasar, Campos Cuéllar, 2006-05-05, PASAPORTE, 481612446, Pfizer, 2021-04-26, 2
+Ander, Alcocer Correa, 1982-05-03, PASAPORTE, 643077046, Sputnik, 2021-11-02, 1
+Julio, Cabrera Carranza, 2000-10-06, PASAPORTE, 303201272, Astrazeneca, 2021-05-01, 2
+Carlos, Anaya Chávez, 1987-08-10, C.C., 043427214, Astrazeneca, 2021-04-22, 2
+Amadeo, Amador Argüelles, 1992-07-12, PASAPORTE, 703680075, Jahnnsen, 2021-12-18, DOSIS ÚNICA
+Adolfo, Camareno Almendárez, 1985-08-02, PASAPORTE, 924645370, Pfizer, 2021-11-20, 1
+Alejandro, Arriaga Chavira, 1977-12-08, PASAPORTE, 229920894, Jahnnsen, 2021-08-16, DOSIS ÚNICA
+Bruno, Cuéllar Anaya, 2008-07-10, C.C., 327287919, Jahnnsen, 2021-03-08, DOSIS ÚNICA
+Anastasio, Carvallo Acosta, 1976-03-30, PASAPORTE, 995840204, Astrazeneca, 2020-02-20, 1
+Aldo, Anaya Alzate, 1999-01-12, PASAPORTE, 960741681, Moderna, 2020-02-17, 1
+Arturo, Chávez Calles, 1997-08-21, C.C., 295129506, Jahnnsen, 2020-02-25, DOSIS ÚNICA
+Carlos, Cerda Céspedes, 1992-09-18, C.C., 144962565, Jahnnsen, 2021-08-21, DOSIS ÚNICA
+Brais, Anaya Camacho, 1971-12-26, PASAPORTE, 172679373, Jahnnsen, 2020-10-23, DOSIS ÚNICA
+María, Cordero Calleja, 1981-08-13, PASAPORTE, 078016916, Jahnnsen, 2020-04-09, DOSIS ÚNICA
+Antonio, Camacho Calles, 1982-08-14, C.C., 645892388, Jahnnsen, 2021-11-29, DOSIS ÚNICA
+Borja, Cabeza Castellanos, 1989-12-12, PASAPORTE, 970358972, Jahnnsen, 2021-10-09, DOSIS ÚNICA
+Bartolomé, Alcázar Cordero, 1993-06-23, C.C., 992796932, Moderna, 2021-06-29, 1
+Alano, Cardoso Cevedo, 2010-12-18, PASAPORTE, 244854741, Jahnnsen, 2020-04-07, DOSIS ÚNICA
+Basilio, Almendárez Cuéllar, 2009-08-15, C.C., 036479476, Jahnnsen, 2020-08-25, DOSIS ÚNICA
+Amado, Cabrera Casas, 1983-09-07, C.C., 628777610, Astrazeneca, 2020-08-13, 1
+Claudio, Alzate Castellanos, 1982-01-06, PASAPORTE, 497878573, Sputnik, 2020-11-23, 1
+Abraham, Cuevas Campos, 1999-03-22, PASAPORTE, 297060968, Moderna, 2020-06-12, 2
+Alejandro, Cornejo Cárdenas, 1998-11-06, C.C., 231328138, Sputnik, 2020-06-05, 1
+Adolfo, Alfaro Acosta, 2005-05-03, C.C., 240644573, Jahnnsen, 2020-12-28, DOSIS ÚNICA
+Blas, Aguilar Camarillo, 1984-03-18, PASAPORTE, 715119878, Jahnnsen, 2021-08-31, DOSIS ÚNICA
+Alex, Ayala Calles, 1981-08-28, C.C., 614931351, Jahnnsen, 2021-05-22, DOSIS ÚNICA
+Alex, Calles Arriaga, 2008-02-24, PASAPORTE, 628764690, Jahnnsen, 2021-07-03, DOSIS ÚNICA
+Boris, Aguirre Carrillo, 1996-11-29, C.C., 997782410, Sputnik, 2020-02-25, 2
+Adrián, Campos Alarcón, 1978-01-25, PASAPORTE, 830766149, Moderna, 2020-01-15, 2
+Adiran, Alzate Calleja, 2009-10-09, C.C., 381810091, Moderna, 2021-02-20, 2
+Borja, Aguirre Almendárez, 1999-02-23, PASAPORTE, 671186054, Pfizer, 2020-07-30, 1
+Juan Carlos, Alayón Amador, 2001-01-27, PASAPORTE, 870799567, Pfizer, 2021-03-24, 1
+Carlos, Cabeza Acuña, 2008-06-20, C.C., 557507045, Pfizer, 2020-11-18, 1
+César, Cuesta Camacho, 1971-04-23, C.C., 183798518, Moderna, 2020-06-29, 2
+Juan Antonio, Chavira Castañeda, 1976-08-24, PASAPORTE, 555384421, Sputnik, 2020-11-14, 1
+Aníbal, Cordero Acosta, 1979-07-08, PASAPORTE, 213064112, Moderna, 2020-02-25, 1
+Adolfo, Cadenas Cuervo, 1990-10-28, PASAPORTE, 536913587, Pfizer, 2020-02-22, 1
+Amado, Alcázar Casas, 1972-05-17, PASAPORTE, 938084613, Moderna, 2020-09-02, 1
+Jose Manuel, Camareno Cordero, 2004-06-10, PASAPORTE, 547994659, Pfizer, 2020-05-19, 2
+Amado, Corro Cervantes, 2005-07-13, C.C., 387596312, Jahnnsen, 2020-11-16, DOSIS ÚNICA
+Brahim, Cerda Acosta, 1974-05-20, C.C., 340788750, Jahnnsen, 2021-05-24, DOSIS ÚNICA
+Bruno, Alzate Anaya, 2005-07-05, C.C., 066278424, Astrazeneca, 2020-10-17, 1
+Claudio, Alarcón Cabeza, 1976-11-01, PASAPORTE, 444499506, Jahnnsen, 2020-06-19, DOSIS ÚNICA
+Abelardo, Cevedo Cepeda, 1979-10-03, PASAPORTE, 897411502, Pfizer, 2021-03-29, 1
+Aleix, Carrillo Ahumada, 1974-08-23, C.C., 066419069, Sputnik, 2020-09-06, 2
+Alejandro, Arjona Cervantes, 1995-05-10, PASAPORTE, 539061847, Pfizer, 2021-05-14, 1
+Bruno, Ayala Camarillo, 1999-01-21, C.C., 487941258, Sputnik, 2021-08-30, 1
+Andrés, Carvallo Argüelles, 2010-12-07, PASAPORTE, 933944031, Moderna, 2020-09-04, 2
+Calisto, Agustín Aguilar, 1992-08-20, PASAPORTE, 385298117, Jahnnsen, 2021-01-23, DOSIS ÚNICA
+Juan Manuel, Cerda Anaya, 1971-08-31, C.C., 327700294, Moderna, 2021-05-06, 1
+Aleix, Carvallo Cadenas, 2008-06-23, PASAPORTE, 679531354, Astrazeneca, 2021-11-09, 2
+Antonio, Anaya Cardoso, 1973-12-23, C.C., 766902361, Pfizer, 2021-08-26, 1
+Arturo, Alayón Aguilar, 1974-06-21, C.C., 362910394, Jahnnsen, 2020-08-17, DOSIS ÚNICA
+Juliana, Arrollo Carvallo, 1976-07-04, C.C., 497543428, Astrazeneca, 2020-12-07, 2
+Jose Maria, Collado Alayón, 1985-07-23, PASAPORTE, 440974248, Pfizer, 2021-02-28, 2
+Joel, Arjona Carrillo, 2000-07-09, PASAPORTE, 916665741, Jahnnsen, 2020-02-28, DOSIS ÚNICA
+Jordi, Camareno Aguilar, 1997-10-30, PASAPORTE, 365032733, Jahnnsen, 2020-10-24, DOSIS ÚNICA
+Amin, Camareno Cordero, 1974-02-02, PASAPORTE, 628031155, Jahnnsen, 2020-10-30, DOSIS ÚNICA
+Asier, Arriaga Céspedes, 1983-01-22, C.C., 730551569, Moderna, 2021-10-14, 2
+Borja, Carrillo Ayala, 1983-07-20, PASAPORTE, 655701912, Astrazeneca, 2021-05-18, 1
+Adam, Collado Alanis, 1977-03-08, PASAPORTE, 656722254, Sputnik, 2021-02-22, 1
+Natalia, Agustín Castañeda, 1992-04-22, PASAPORTE, 927465103, Astrazeneca, 2021-12-11, 1
+Adiran, Cuesta Calleja, 2005-05-15, C.C., 947258697, Moderna, 2021-02-03, 1
+Aarón, Acosta Castañeda, 2008-10-10, C.C., 296390319, Sputnik, 2021-08-24, 1
+Anastasio, Calleja Acosta, 1981-07-28, PASAPORTE, 280709806, Jahnnsen, 2021-01-10, DOSIS ÚNICA
+Nicolas, Cornejo Cordero, 2005-07-27, C.C., 874677427, Astrazeneca, 2020-05-16, 1
+Sofia, Carranza Argüelles, 1972-01-03, PASAPORTE, 591073509, Pfizer, 2020-08-23, 1
+Adalberto, Camacho Alarcón, 2006-03-15, C.C., 551820462, Pfizer, 2020-10-31, 1
+Gabriela, Camareno Aguirre, 2001-07-13, PASAPORTE, 855661252, Jahnnsen, 2021-10-24, DOSIS ÚNICA
+Natalia, Álvarez Ayala, 2000-10-24, C.C., 127651517, Moderna, 2020-03-18, 1
+Jose Luis, Arriaga Cuesta, 1976-07-27, PASAPORTE, 681499339, Jahnnsen, 2021-08-23, DOSIS ÚNICA
+Blas, Almendárez Alcocer, 1971-08-30, C.C., 605936597, Pfizer, 2020-11-27, 1
+Alfredo, Corro Alcázar, 2000-03-27, C.C., 625786617, Pfizer, 2020-05-19, 1
+Juan Manuel, Alcázar Cepeda, 2010-02-10, C.C., 402385845, Moderna, 2020-02-24, 1
+Antonio, Alzate Cuesta, 1989-12-18, C.C., 100007941, Pfizer, 2021-05-26, 1
+Jose Antonio, Cárdenas Caballero, 1999-09-09, PASAPORTE, 048766344, Astrazeneca, 2021-09-09, 2
+Calisto, Cardoso Corro, 1992-04-06, C.C., 697457808, Pfizer, 2020-04-28, 1
+Ana, Ayala Altamirano, 2005-10-21, PASAPORTE, 478894346, Pfizer, 2021-08-23, 2
+Ana, Cevedo Cornejo, 1970-12-22, PASAPORTE, 014319902, Sputnik, 2021-02-19, 2
+Jose Antonio, Cordero Camareno, 1971-08-13, PASAPORTE, 462878237, Astrazeneca, 2021-12-08, 2
